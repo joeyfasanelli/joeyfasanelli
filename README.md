@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joey</h1>
 <h3 align="center">A passionate frontend developer from Florida</h3>
 
-- 🌱 I’m currently learning **HTML5, CSS3, Javascript, jQuery, and much more.**
+- 🌱 I’m currently learning **HTML5, CSS3, Javascript, and much more.**
 
 - 📫 How to reach me **joeyfas1704@gmail.com**
 
