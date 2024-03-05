@@ -4,7 +4,7 @@
 
 <p align="left">
 </p>
-
+<div className="grid grid-cols-4 gap-5 m-2">
 <h3 align="left">Languages and Tools:</h3>
                 <img
                   className="h-20 w-20"
@@ -85,4 +85,4 @@
                 className="h-20 w-20 "
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
                 />
-
+</div>
