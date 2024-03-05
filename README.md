@@ -6,32 +6,32 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
                 <img
-                  className="h-1 w-1"
+                  style="height:10px; width:10px"
                   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
                   alt=""
                   />
                   <img
-                  className="h-1 w-1"
+                  style="height:10px; width:10px"
                   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
                   alt=""
                   />
                   <img
-                  className="h-1 w-1"
+                  style="height:10px; width:10px"
                   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"
                   alt=""
                   />
                   <img
-                  className="h-1 w-1"
+                  style="height:10px; width:10px"
                   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
                   alt=""
                   />
                   <img
-                  className="h-1 w-1"
+                  style="height:10px; width:10px"
                   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
                   alt=""
                   />
                 <img
-                className="h-1 w-1"
+                style="height:10px; width:10px"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html1/html1-plain.svg"
                 alt=""
                 />
