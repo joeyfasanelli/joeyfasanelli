@@ -85,4 +85,13 @@
                 style="height:50px; width:50px"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
                 />
+                <img 
+                style="height:50px; width:50px"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
+                />
+                <img 
+                style="height:50px; width:50px"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" 
+                />
+
 </span>
