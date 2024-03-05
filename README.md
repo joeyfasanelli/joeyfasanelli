@@ -2,12 +2,87 @@
 <h3 align="center">A passionate fullstack developer from Florida</h3>
 
 
-- 📫 How to reach me **joeyfas1704@gmail.com**
-
-
 <p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+                <img
+                  className="h-20 w-20"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
+                  alt=""
+                  />
+                  <img
+                  className="h-20 w-20"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
+                  alt=""
+                  />
+                  <img
+                  className="h-20 w-20"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"
+                  alt=""
+                  />
+                  <img
+                  className="h-20 w-20"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
+                  alt=""
+                  />
+                  <img
+                  className="h-20 w-20"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+                  alt=""
+                  />
+                <img
+                className="h-20 w-20"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+                alt=""
+                />
+                <img
+                className="h-20 w-20 "
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+                alt=""
+                />
+                <img
+                className="h-20 w-20 "
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+                alt=""
+                />
+                <img
+                className="h-20 w-20 "
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+                alt=""
+                />
+                <img
+                className="h-20 w-20 "
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+                alt=""
+                />
+                <img
+                className="h-20 w-20 "
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+                alt=""
+                />
+                <img
+                className="h-20 w-20 "
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+                alt=""
+                />
+                <img
+                className="h-20 w-20 "
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"
+                alt=""
+                />
+                <img
+                className="h-20 w-20 "
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+                alt=""
+                />
+                <img
+                className="h-20 w-20 "
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+                alt=""
+                />
+                <img
+                className="h-20 w-20 "
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+                />
 
