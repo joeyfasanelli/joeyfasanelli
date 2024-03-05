@@ -5,6 +5,7 @@
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
+<span style="float:left">
                 <img
                   style="height:50px; width:50px"
                   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
@@ -32,7 +33,7 @@
                   />
                 <img
                 style="height:50px; width:50px"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html1/html1-plain.svg"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
                 alt=""
                 />
                 <img
@@ -84,4 +85,4 @@
                 style="height:50px; width:50px"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
                 />
-</div>
+</span>
