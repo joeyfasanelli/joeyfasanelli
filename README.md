@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Joey</h1>
-<h3 align="center">A passionate fullstack developer from Florida</h3>
 
 
 <p align="left">
